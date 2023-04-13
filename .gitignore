@@ -1,3 +1,8 @@
+.Rprofile
+.config/
+.local/
+
+
 # History files
 .Rhistory
 .Rapp.history
